@@ -18,7 +18,7 @@ This project is based on the Spring Boot project and uses these packages:
 
 [![Lombok](https://img.shields.io/badge/lombok-1.18.26-000?style=for-the-badge&logoColor=white&color=FF5722)](https://projectlombok.org/)
 
-[![Insomnia](https://img.shields.io/badge/Insomnia-2023.1-C70D2C?style=for-the-badge&logo=insomnia&logoColor=white&color=4000BF)](https://www.java.com/en/)
+[![Insomnia](https://img.shields.io/badge/Insomnia-2023.1-C70D2C?style=for-the-badge&logo=insomnia&logoColor=white&color=4000BF)](https://insomnia.rest/)
 
 <br>
 
